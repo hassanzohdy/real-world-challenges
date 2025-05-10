@@ -5,6 +5,7 @@
 **Challenge**: Write a `fetchFeatureToggles` function that processes a raw API response, validates it, and returns a clean, type-safe list of feature toggles. Include a method to check if a specific feature is enabled.
 
 ## 📋 Requirements
+
 - **Feature Toggle Structure**:
   - `name`: string (required, non-empty)
   - `enabled`: boolean (required)
@@ -23,6 +24,7 @@
   - Empty response arrays
 
 ## 🛠 Example
+
 ```typescript
 // Mock API response (messy, real-world data)
 const rawApiResponse = [
@@ -42,11 +44,12 @@ console.log(toggleManager.isFeatureEnabled("analytics")); // false
 ```
 
 ## 📝 Notes
+
 - Use TypeScript types to ensure data integrity
 - Implement error handling for invalid input
 - Ensure the utility is flexible and can handle future changes in the API response
 
-## Task
+## 🎯 Task
 
 Please create a Codesandbox example that demonstrates the solution to the challenge.
 
