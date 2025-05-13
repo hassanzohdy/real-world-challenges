@@ -36,3 +36,4 @@ Implement the utility and provide example usages and test cases in a TypeScript 
 ## 📦 Answers
 
 [@mo0hamedRadwan](https://codesandbox.io/p/sandbox/deep-object-property-access-utility-gl2n6t)
+[@ahmed-soltan](https://codesandbox.io/p/sandbox/5cx698)
