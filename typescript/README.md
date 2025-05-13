@@ -15,4 +15,5 @@ This section contains challenges that are related to frontend development.
 This section contains challenges that are not related to frontend or backend, but rather to the TypeScript language itself.
 
 - Medium Level
-- [Deep Object Property Access Utility](./neutral/deep-object-property-access.md)
+  - [Deep Object Property Access Utility](./neutral/deep-object-property-access.md)
+  - [Immutable Data Structure](./neutral/immutable-data-structure.md)
