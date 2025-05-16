@@ -40,4 +40,4 @@ Implement the utility and provide example usages and test cases in a TypeScript 
 
 ## 📦 Answers
 
-[@your_github_username](your-solution-link)
+[@ahmed-soltan](https://codesandbox.io/p/sandbox/vanilla-typescript-vanilla-ts)
