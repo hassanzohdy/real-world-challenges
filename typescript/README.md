@@ -10,6 +10,13 @@ This section contains challenges that are related to frontend development.
   - [Type-Safe Feature Toggle Handler](./frontend/type-safe-feature-toggle-handler.md)
   - [Debounced Search Input with API Integration](./frontend/debounced-search-input-api.md)
 
+## Backend Challenges
+
+This section contains challenges that are related to backend development.
+
+- Medium Level
+  - [Accurate Financial Calculator (Floating Point Safe)](./neutral/accurate-financial-calculator.md)
+
 ## Neutral Challenges
 
 This section contains challenges that are not related to frontend or backend, but rather to the TypeScript language itself.
