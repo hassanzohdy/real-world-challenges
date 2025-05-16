@@ -41,3 +41,4 @@ Implement the utility and provide example usages and test cases in a TypeScript 
 ## 📦 Answers
 
 [@ahmed-soltan](https://codesandbox.io/p/sandbox/vanilla-typescript-vanilla-ts)
+[@mo0hamedRadwan](https://codesandbox.io/p/sandbox/accurate-financial-calculator-vzzgf3)
