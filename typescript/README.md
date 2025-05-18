@@ -9,6 +9,7 @@ This section contains challenges that are related to frontend development.
 - Medium Level
   - [Type-Safe Feature Toggle Handler](./frontend/type-safe-feature-toggle-handler.md)
   - [Debounced Search Input with API Integration](./frontend/debounced-search-input-api.md)
+  - [URL Query State Synchronization](./frontend/url-query-state-sync.md)
 
 ## Backend Challenges
 
