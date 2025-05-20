@@ -37,4 +37,4 @@ Implement the utility and provide example usages and test cases in a TypeScript 
 
 [@mo0hamedRadwan](https://codesandbox.io/p/sandbox/deep-object-property-access-utility-gl2n6t)
 [@ahmed-soltan](https://codesandbox.io/p/sandbox/5cx698)
-[@shreen](https://codesandbox.io/p/sandbox/4pvzff?file=%2Fsrc%2Futils%2Fdeep-value.ts%3A16%2C1)
+[@shreen](https://codesandbox.io/p/sandbox/4pvzff)
